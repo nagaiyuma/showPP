@@ -5,5 +5,5 @@
 
 # How To Use
 ```
-git clone github.com/nagaiyuma/showPP
+git@github.com:nagaiyuma/showPP.git
 ```
