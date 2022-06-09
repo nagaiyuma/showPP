@@ -5,5 +5,8 @@
 
 # How To Use
 ```
-git clone git@github.com:nagaiyuma/showPP.git
+$git clone git@github.com:nagaiyuma/showPP.git
+```
+```
+$python main.py
 ```
